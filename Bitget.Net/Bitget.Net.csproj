@@ -7,7 +7,7 @@
     <ImplicitUsings>true</ImplicitUsings>
   </PropertyGroup>
   <PropertyGroup>
-    <PackageId>JK.Bitget.Net</PackageId>
+    <PackageId>Lgd.JK.Bitget.Net</PackageId>
     <Authors>JKorf</Authors>
     <PackageVersion>1.22.1</PackageVersion>
     <AssemblyVersion>1.22.1</AssemblyVersion>
